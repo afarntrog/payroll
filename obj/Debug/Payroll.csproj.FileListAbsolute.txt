@@ -1,0 +1,6 @@
+C:\Users\Aaron\Code\CSharp\source\repos\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Aaron\Code\CSharp\source\repos\Payroll\bin\Debug\Payroll.exe
+C:\Users\Aaron\Code\CSharp\source\repos\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Aaron\Code\CSharp\source\repos\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Aaron\Code\CSharp\source\repos\Payroll\obj\Debug\Payroll.exe
+C:\Users\Aaron\Code\CSharp\source\repos\Payroll\obj\Debug\Payroll.pdb
